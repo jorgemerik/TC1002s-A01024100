@@ -1,3 +1,3 @@
-#Mi reporisitorio
+#Mi repositorio
 
-Este es mi reporisitorio
+Este es mi repositorio inicial
